@@ -2,7 +2,9 @@
 This project sets out to build a dashboard to analyze year-to-date insider trading of all stocks and industries. The first step was to web-scrap the data from openinsider and finviz using python and required libraries.
 
 
-Data Sources: FinViz for general ticker info: https://finviz.com/screener.ashx 
+Data Sources: 
+            
+              FinViz for general ticker info: https://finviz.com/screener.ashx 
               
               OpenInsider: http://openinsider.com/screener?s=&o=&pl=&ph=&ll=&lh=&fd=0&fdr=&td=365&tdr=&fdlyl=&fdlyh=&daysago=&xp=1&vl=50000&vh=&ocl=&och=&sic1=-1&sicl=100&sich=9999&grp=0&nfl=&nfh=&nil=&nih=&nol=&noh=&v2l=&v2h=&oc2l=&oc2h=&sortcol=0&cnt=1000&page=1
               
