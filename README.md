@@ -1,5 +1,5 @@
 # InsiderTradingYTD
-This project sets out to build a dashboard to analyze year-to-date insider trading of all stocks and industries. The first step was to web-scrap the data from openinsider and finviz using python and required libraries.
+This project sets out to build a dashboard to analyze year-to-date insider trading of all stocks and industries. The first step was to web-scrap the data from openinsider and finviz using python and required libraries. Then we clean the data in the same python script using pandas library. After we used SQL to create a table of all trades. Ultimately we create a dashboard in Tableau.
 
 
 Data Sources: 
